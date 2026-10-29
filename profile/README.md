@@ -1,8 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cold-Source/.github/blob/main/sd.png?raw=true">
-    <img width=512 src="">
-  </picture>
+  <img
+    src="https://github.com/Chest-Software/.github/blob/main/profile/sd.png"
+    alt="Cold Source"
+    width="512"
+  >
 </p>
 
 # Cold Source
